@@ -51,12 +51,12 @@ Compare original, low-res, and SRCNN output:
 python evaluate_resolution.py
 Calculates:
 
-PSNR
+PSNR - Peak Signal-to-Noise Ratio
 
-RMSE
+RMSE - Root Mean Square Error
 
-MSE
+MSE - Mean Square Error
 
-MAE
+MAE - Mean Absolute error
 
-SSIM
+SSIM - Structural similiri index
